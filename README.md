@@ -38,7 +38,7 @@
     ```bash
     aws eks --region region_name  update-kubeconfig --name cluster_name
     # in my example
-    # aws eks --region us-east-1  update-kubeconfig --name j-test-task-cluster
+    # aws eks --region us-east-1  update-kubeconfig --name jifiti-home-task-cluster
     ```
     
       2. Navigate to app directory
